@@ -1,0 +1,22 @@
+    h1{
+     font-family: Cambria;
+     color: #0066CC;
+    }
+    
+    #result{
+      font-size: 25px;
+    }
+    
+    body{
+      background-color: #CCCCFF;
+    }
+    
+    p{
+     font-size: 20px;
+     font-family: Cambria;
+    }
+    
+    #submit{
+     font-family: Cambria;
+     font-size: 18px;
+    }
